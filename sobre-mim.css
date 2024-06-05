@@ -1,0 +1,30 @@
+.sobre-mim-container {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+    background: var(--azul-10, #EAF2FD);
+
+}
+
+.titulo-sobre-mim {
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 1rem;
+    width: 46rem;    
+}
+
+.paragrafo-sobre-mim {
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 1rem;
+    width: 46rem;
+}

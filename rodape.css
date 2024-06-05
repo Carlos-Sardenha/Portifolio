@@ -1,0 +1,117 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;    
+}
+
+.formcontato {
+    display: flex;
+    width: 90rem;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.625rem;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    background: var(--azul-10, #f8f4f4);
+}
+
+.formcontato__contacto {
+    display: flex;
+    width: 71rem;
+    padding-top: 64px;
+    align-items: center;
+    gap: 1rem;          
+}
+
+.formcontato--esquerda {
+      
+}
+
+.formcontato__img {
+    width: 29rem;
+    height: 37.0625rem;
+    flex-shrink: 0;    
+}
+
+.formcontato__text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+    flex: 1 0 0;    
+}
+
+.topo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;    
+}
+
+.formcontato__title {
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    
+}
+
+
+.formcontato__subtext {
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+
+.campos {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+    align-self: stretch;    
+}
+
+.formcontato__input {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+    align-self: stretch;    
+}
+
+.formcontato__textarea {
+                    
+}
+
+.formcontato__botao {
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;    
+}
+
+
+//rodape
+
+.footer {
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+
+.footer__rodape {
+    color: var(--preto-100, #464646);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}

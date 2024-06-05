@@ -1,0 +1,54 @@
+.container-cabecalho {
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    height: 5.5rem;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+.meu-nome-container {
+    display: flex;
+}
+
+.estrela-fulano-de-tal {
+    width: 1.5rem;
+    height: 1.5rem;
+    padding-right: 0.5rem;
+}
+
+.nome-carlos-alberto {
+    display: flex;
+    align-items: center;
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.lista-sobre-mim {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-lista {
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-right: 2rem;
+}
+
+.email {
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

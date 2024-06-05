@@ -1,0 +1,57 @@
+.formacao-academica {
+    display: flex;
+    justify-content: center;
+}
+
+.formacao-academica {
+    background-color: #ecf4fc;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5.12rem;
+    padding-bottom: 5.12rem;
+}
+
+.titulo-formacao {
+    color: var(--preto-100, #464646);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 2rem;
+}
+
+.itens-formacao-primeira-linha {
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 1.375rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.itens-formacao-segunda-linha {
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container-lista {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 25rem;
+    height: 18.875rem;
+}
+
+.icone-formacao {
+    padding-left: 15.5%;
+    padding-top: 11.5%;
+    width: 17rem;
+    height: 13.125rem;
+    flex-shrink: 0;
+}

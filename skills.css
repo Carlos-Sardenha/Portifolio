@@ -1,0 +1,52 @@
+.skills-container {
+    padding-top: 2rem;
+    padding-bottom: 5.5rem;
+    background-color: #f8f4f4;
+}
+
+.titulo-skills {
+    color: var(--preto-100, #464646);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 2rem;
+}
+
+
+.lista-itens-caixas {
+    padding-left: 10%;
+    display: flex;
+    flex-direction: column;
+    height: 11rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container-skills {
+    background: var(--preto-branco, #FFF);
+    display: flex;
+    width: 11rem;
+    height: 10.875rem;
+    padding: 1rem;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 0.5rem;
+}
+
+.icone-skills {
+    width: 1.5rem;
+    height: 2.3rem;
+}
+
+.itens-caixas {
+    color: var(--preto-100, #464646);
+    font-family: Raleway;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
